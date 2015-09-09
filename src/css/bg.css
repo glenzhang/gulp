@@ -1,0 +1,47 @@
+.i1 {
+    display: block;
+    width: 16px;
+    height: 16px;
+    background-image: url(../images/i1.png);
+    background-position: 0 0;
+}
+
+.i2 {
+    display: block;
+    width: 23px;
+    height: 18px;
+    background-image: url(../images/i2.png);
+    background-position: 0 0;
+}
+
+.i3 {
+    display: block;
+    width: 20px;
+    height: 20px;
+    background-image: url(../images/i3.png);
+    background-position: 0 0;
+}
+
+.i4 {
+    display: block;
+    width: 20px;
+    height: 24px;
+    background-image: url(../images/i4.png);
+    background-position: 0 0;
+}
+
+.i5 {
+    display: block;
+    width: 21px;
+    height: 12px;
+    background-image: url(../images/i5.png);
+    background-position: 0 0;
+}
+
+.logo {
+    display: block;
+    width: 78px;
+    height: 53px;
+    background-image: url(../images/logo.png);
+    background-position: 0 0;
+}

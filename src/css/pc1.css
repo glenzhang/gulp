@@ -1,0 +1,7 @@
+.box{
+    display: flex;
+}
+
+.tra {
+    transform: translateY(-15px);
+}
